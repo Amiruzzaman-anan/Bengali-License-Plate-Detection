@@ -1,0 +1,6 @@
+train: /content/train/images/train
+val: /content/train/images/val
+
+# Classes
+names:
+  0: License_Plate
